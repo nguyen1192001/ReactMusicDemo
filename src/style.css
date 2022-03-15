@@ -75,6 +75,31 @@
     margin: auto;
   }
   
+
+  @keyframes loopCircle {
+      from{
+        transform: rotate(0deg)
+      }to{
+        transform: rotate(360deg);
+      }
+  }
+
+  @keyframes stopLoopCircle {
+    0%{
+      transform: rotate(0deg)
+    }100%{
+      transform: rotate(0deg);
+    }
+  }
+.loopInfinity{
+  animation: loopCircle 5s linear infinite; 
+}
+
+.pauseLoopInfinity{
+  animation: stopLoopCircle 10s ease-in
+}
+
+
   /* CONTROL */
   .control {
     display: flex;

@@ -1,51 +1,51 @@
 [
-    {
-      "id": "1",
-      "name": "Click Pow Get Down",
-      "singer": "Raftaar x Fortnite",
-      "path": "https://assets.coderrocketfuel.com/pomodoro-times-up.mp3",
-      "image": "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
-    },
-    {
-      "id": "2",
-      "name": "Tu Phir Se Aana",
-      "singer": "Raftaar x Salim Merchant x Karma",
-      "path": "http://streaming.tdiradio.com:8000/house.mp3",
-      "image": "https://1.bp.blogspot.com/-kX21dGUuTdM/X85ij1SBeEI/AAAAAAAAKK4/feboCtDKkls19cZw3glZWRdJ6J8alCm-gCNcBGAsYHQ/s16000/Tu%2BAana%2BPhir%2BSe%2BRap%2BSong%2BLyrics%2BBy%2BRaftaar.jpg"
-    },
-    {
-      "id": "3",
-      "name": "Naachne Ka Shaunq",
-      "singer": "Raftaar x Brobha V",
-      "path": "https://mp3.filmysongs.in/download.php?id=Naachne Ka Shaunq Raftaar Ft Brodha V Mp3 Hindi Song Filmysongs.co.mp3",
-      "image": "https://i.ytimg.com/vi/QvswgfLDuPg/maxresdefault.jpg"
-    },
-    {
-      "id": "4",
-      "name": "Mantoiyat",
-      "singer": "Raftaar x Nawazuddin Siddiqui",
-      "path": "https://mp3.vlcmusic.com/download.php?track_id=14448&format=320",
-      "image": "https://a10.gaanacdn.com/images/song/39/24225939/crop_480x480_1536749130.jpg"
-    },
-    {
-      "id": "5",
-      "name": "Aage Chal",
-      "singer": "Raftaar",
-      "path": "https://mp3.vlcmusic.com/download.php?track_id=25791&format=320",
-      "image": "https://a10.gaanacdn.com/images/albums/72/3019572/crop_480x480_3019572.jpg"
-    },
-    {
-      "id": "6",
-      "name": "Damn",
-      "singer": "Raftaar x kr$na",
-      "path": "https://mp3.filmisongs.com/go.php?id=Damn%20Song%20Raftaar%20Ft%20KrSNa.mp3",
-      "image": "https://1.bp.blogspot.com/-kX21dGUuTdM/X85ij1SBeEI/AAAAAAAAKK4/feboCtDKkls19cZw3glZWRdJ6J8alCm-gCNcBGAsYHQ/s16000/Tu%2BAana%2BPhir%2BSe%2BRap%2BSong%2BLyrics%2BBy%2BRaftaar.jpg"
-    },
-    {
-      "id": "7",
-      "name": "Feeling You",
-      "singer": "Raftaar x Harjas",
-      "path": "https://mp3.vlcmusic.com/download.php?track_id=27145&format=320",
-      "image": "https://a10.gaanacdn.com/gn_img/albums/YoEWlabzXB/oEWlj5gYKz/size_xxl_1586752323.webp"
-    }
-  ]
+  {
+    "id": "3",
+    "name": "Bài hát số 3",
+    "singer": "Ca sĩ rất nổi tiếng số 3",
+    "path": "http://streaming.tdiradio.com:8000/house.mp3",
+    "image": "https://i.pinimg.com/236x/0b/16/f1/0b16f1e0440cdb133f9cc52bc75d06ad.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Bài hát số 4",
+    "singer": "Ca sĩ rất nổi tiếng số 4",
+    "path": "http://streaming.tdiradio.com:8000/house.mp3",
+    "image": "https://i.pinimg.com/736x/04/79/4c/04794c82fbb14c94aa88c2e8a8c40a22.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Bài hát số 5",
+    "singer": "Ca sĩ rất nổi tiếng số 5",
+    "path": "http://streaming.tdiradio.com:8000/house.mp3",
+    "image": "https://i.pinimg.com/736x/ab/b6/c6/abb6c63468150cf3125e5ae8346bf146.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Bài hát số 6",
+    "singer": "Ca sĩ rất nổi tiếng số 6",
+    "path": "http://streaming.tdiradio.com:8000/house.mp3",
+    "image": "https://i.pinimg.com/474x/1a/d5/f1/1ad5f16c065b20a9f58bac531e0e55a9.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Bài hát số 7",
+    "singer": "Ca sĩ rất nổi tiếng số 7",
+    "path": "http://streaming.tdiradio.com:8000/house.mp3",
+    "image": "https://i.pinimg.com/originals/de/00/34/de0034d0a11614aaaec857d19b2269a6.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Bài hát số 8",
+    "singer": "Ca sĩ rất nổi tiếng số 8",
+    "path": "http://streaming.tdiradio.com:8000/house.mp3",
+    "image": "https://i.pinimg.com/236x/f3/4d/78/f34d78b19df4e86acb58367517235e4e.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Bài hát số 9",
+    "singer": "Ca sĩ rất nổi tiếng số 9",
+    "path": "http://streaming.tdiradio.com:8000/house.mp3",
+    "image": "https://i.pinimg.com/originals/38/da/da/38dadaa9191d156afecc2d3eb4f2f22b.jpg"
+  }
+]
